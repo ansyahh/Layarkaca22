@@ -1,4 +1,4 @@
-# Sistem-Informasi-Katalog-Perpustakaan
+# MovieMania
 Sistem informasi katalog perpustakaan merupakan aplikasi berbasi web yang di buat untuk mempermudah perpustakaan dalam mengolah buku yang ada
 
 ### Angota kelompok
