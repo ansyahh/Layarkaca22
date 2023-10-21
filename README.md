@@ -1,5 +1,5 @@
 # MovieMania
-Sistem informasi katalog perpustakaan merupakan aplikasi berbasi web yang di buat untuk mempermudah perpustakaan dalam mengolah buku yang ada
+Sistem informasi tentang film 
 
 ### Angota kelompok
     1. Ardiansyah (2108107010023)
