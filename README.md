@@ -1,4 +1,14 @@
 <h1 align="center">LayarKaca22</h1>
+
+# MovieMania
+Sistem informasi tentang film 
+
+### Angota kelompok
+    1. Ardiansyah (2108107010023)
+    2. Iffatun Nisa Nasrullah (2208107010009)
+    3. Fadli Ahmad Yazid (2208107010032)
+
+
 LayarKaca22 is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 
 <hr/>
