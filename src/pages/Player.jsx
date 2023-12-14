@@ -27,7 +27,7 @@ const Player = () => {
       }, []);
       
     
-    document.title = `BlueBird Movies | ${moviedet.title}`
+    document.title = `LayarKaca22 | ${moviedet.title}`
 
     return (
       <>
